@@ -1,0 +1,70 @@
+body {
+    border: 5px solid #000;
+    background:#FFEBCD;
+    color:#000000;
+    
+    
+}
+
+div{
+    
+    display: inline-block;
+
+}
+    
+h1{
+    color:cadetblue; 
+    text-align: center;
+    font-size: 50px;
+    margin-left:10%;
+    margin-right: 10%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table{
+    boder: #000;
+    margin: auto;  
+}
+
+h1{
+    width: 89%;
+    background: #FFEBCD;
+    margin: 0% 0%;
+    padding: 5%
+}
+
+header{
+    width: 90%;
+    background: #FFB6C1;
+    margin: 2% 5%;
+    padding: 20px 0px;
+    border:2px solid #000;
+}
+h2,p{
+    width: 75%;
+    background: #FFEBCD;
+    margin: 5% 7.5%;
+    padding: 0% 5%;
+}
+
+li{
+    height: 30px;
+    width: 100px;
+    background: #CD5C5C;
+    margin: 50px 130px;
+    border:2px solid#000;
+    display:inline-block;
+    padding: 20px 20px;
+    color: #000;
+}
+
+table{
+    /*border: 3px solid #000;*/
+}
+
+table td{
+    border: 1px solid #000;
+}
+
+table th{
+    border: 1px solid#000;
+}
